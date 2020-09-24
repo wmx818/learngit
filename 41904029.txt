@@ -1,0 +1,85 @@
+#  1.Introduction to IT
+---
+## 1.1 introduction
+- ***IT:*** The use of digital technology, like computers and the Internet, to store and process data into useful information.
+- The heart ang soul of IT is really about *people*.
+- Internet *has an impact on* education, medicine, journalism, construction, transportation and entertainment.
+## 1.2 history of computing
+- ***computer:*** A device that stores and processes data by performing calculation.
+- in the 17th century, Blaise Pascal invented mechanical calculator, which paved the way for more complex machines.
+- in the 1800s, Joseph jacquard invented a programmable loom.
+- inspired by punch card, Charles Babbage developed analytical operations that can automtically perform calculations.
+- Ada Lovelace developed the first algorithm.
+#### ***The path to modern computers***
+1. During the World War Two, government provided resources to support the computer to process secret messages.Cryptography--the art of writing and solving codes.
+2. Alan Turing developed the top-secret Enigma machine.
+3. Admiral Grace invented the first compiler —— Hopper compiler. The first hard disk and micro processors.
+4. Xerox Alto, means computer get smaller.
+5. Steve Wozniak, the Apple one.
+6. IBM, personal computer.
+7. Bill Gates, Microsoft and Microsoft Windows operating system.
+8. Atari, the first coin-oprated arcade games——pong.
+9. Richard Stallman, invented the similar UNIX, which is an open source system.
+10. Late 1990s, Nokia introduced the PDA with mobile phone functionality.
+
+## 1.3 digital logic
+- Binary system: a base numeral system, only talk in ones and zeros.
+- Character Encoding: assigns our binary values to characters, so that we as humans can read them.
+- Encoding standard:ASCII, UTF-8
+## 1.4 computer  architecture layer
+1. Hardware layer: made up of the physical components of a computer
+2. Operrating system
+3. Software layer: how we humans interact with our commputer
+4. User: interact with the computer
+# 2.Hardware
+---
+## 2.1 the modern computer
+## 2.2 components
+- CPU: the brain of computer, does all the calculations and data processing
+- RAM: short-term memory
+- Hard drive: holds all of our data
+- Motherboard: the body of the computer that connects all the pieces together
+- Trisha：power supply
+- MCC: the bridge between CPU and RAM
+## 2.3 starting it up
+# 3.Operating system
+---
+## 3.1 what's an operating system
+***The whole package that manages our computers' resources and let us interact with it***
+![同一目录下的图片引用](./pic.jpg)
+
+
+
+There are two main parts--the kernel space and the user space.
+#### The kernel space
+OUr kernel optimizes memory usage and makes sure our applications have enough memory to run.
+1. Process Manager--the kernel has to schedule time for the CPU to execute the instructions in the process.It just takes a time slice, the super short interval of time. To human eyes, it looks like it runs simultaneously.
+![同一目录下的图片引用](./process.jpg)
+2. Memory Manager--use virtual memory(the combination of hard drive space and RAM that acts like memory that our processes can use) to read and load the processes quickly.
+3. File Manager--we write data to our hard drive in the form of data blocks. Block storage improves faster handling of data and run the accessed quicker.
+4. I/O Manager--devices that perform input and output.
+
+#### The user space
+Human interact with our computer through the user space.
+
+
+## 3.2 installing an operating system
+# 4.Networking
+---
+## 4.1what is networking
+***The Internet***:The physical connection of computers and wires around the world.
+
+***The Web***:The information on the Internet.
+- IP Address & MAC Address
+- General rules: routed efficiently, aren't corrupted, secure right machine, named appropriately
+- IP:deliver packets to right computers
+- TCP:deliver information from one network to another
+## 4.2limitations of the Internet
+## 4.3impact of the Internet
+# Software
+## introduction to software
+## interacting with software
+#  Troubleshooting
+##  troubleshooting best practices
+##  customer service
+##  documentation
